@@ -1,6 +1,6 @@
 # Awesome-P2P-Bittorrent-Clients
 
-# Top Package Managers Ecosystem
+## Top Package Managers Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Cross-Platform Binary Management, Fast Solvers & Reproducible Environments*  
