@@ -2,7 +2,7 @@
 
 # Awesome-P2P-Bittorrent-Clients
 
-# Top P2P & BitTorrent Clients Ecosystem
+## Top P2P & BitTorrent Clients Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Ad-Free Downloading, Headless Seeding & Native Platform Integration*  
