@@ -71,134 +71,134 @@ The open-source BitTorrent ecosystem offers zero-cost, privacy-respecting, and c
 
 ### 📊 Star Ranking Matrix
 
-| 🏆 Rank | 📦 Project Name | ⭐ GitHub Star Count Badge | 🛠️ Primary Language | 🎯 Primary Architecture / Focus |
+| 🏆 Rank | 📦 Project Name | ⭐ GitHub Stars_Count Badge | 🛠️ Primary Language | 🎯 Primary Architecture / Focus |
 | :---: | :--- | :---: | :---: | :--- |
-| **#1** | **[aria2](https://github.com/aria2/aria2)** | [![GitHub stars](https://img.shields.io/github/stars/aria2/aria2?style=social&color=white)](https://github.com/aria2/aria2/stargazers) | C++ | Multi-protocol CLI engine (BitTorrent, HTTP, FTP, Metalink) |
-| **#2** | **[qBittorrent](https://github.com/qbittorrent/qBittorrent)** | [![GitHub stars](https://img.shields.io/github/stars/qbittorrent/qBittorrent?style=social&color=white)](https://github.com/qbittorrent/qBittorrent/stargazers) | C++ (Qt6) | Universal desktop & headless web client; libtorrent-powered |
-| **#3** | **[WebTorrent](https://github.com/webtorrent/webtorrent)** | [![GitHub stars](https://img.shields.io/github/stars/webtorrent/webtorrent?style=social&color=white)](https://github.com/webtorrent/webtorrent/stargazers) | JavaScript | In-browser & Node.js streaming torrent engine via WebRTC |
-| **#4** | **[Transmission](https://github.com/transmission/transmission)** | [![GitHub stars](https://img.shields.io/github/stars/transmission/transmission?style=social&color=white)](https://github.com/transmission/transmission/stargazers) | C++ / Cocoa | Lightweight native desktop client (<40MB RAM) & headless daemon |
-| **#5** | **[WebTorrent Desktop](https://github.com/webtorrent/webtorrent-desktop)** | [![GitHub stars](https://img.shields.io/github/stars/webtorrent/webtorrent-desktop?style=social&color=white)](https://github.com/webtorrent/webtorrent-desktop/stargazers) | JavaScript / Electron | Instant streaming media torrent player for Mac, Windows, and Linux |
-| **#6** | **[VueTorrent](https://github.com/VueTorrent/VueTorrent)** | [![GitHub stars](https://img.shields.io/github/stars/VueTorrent/VueTorrent?style=social&color=white)](https://github.com/VueTorrent/VueTorrent/stargazers) | Vue.js / TypeScript | Modern, responsive dark-mode WebUI frontend for qBittorrent |
-| **#7** | **[anacrolix/torrent](https://github.com/anacrolix/torrent)** | [![GitHub stars](https://img.shields.io/github/stars/anacrolix/torrent?style=social&color=white)](https://github.com/anacrolix/torrent/stargazers) | Go | Full-featured BitTorrent client package, DHT, and HTTP streamer |
-| **#8** | **[Tribler](https://github.com/Tribler/tribler)** | [![GitHub stars](https://img.shields.io/github/stars/Tribler/tribler?style=social&color=white)](https://github.com/Tribler/tribler/stargazers) | Python / PyQt | Anonymity-focused client with integrated multi-hop onion routing |
-| **#9** | **[rTorrent](https://github.com/rakshasa/rtorrent)** | [![GitHub stars](https://img.shields.io/github/stars/rakshasa/rtorrent?style=social&color=white)](https://github.com/rakshasa/rtorrent/stargazers) | C++ | High-performance ncurses terminal client built on LibTorrent |
-| **#10** | **[LibreTorrent](https://github.com/proninyaroslav/libretorrent)** | [![GitHub stars](https://img.shields.io/github/stars/proninyaroslav/libretorrent?style=social&color=white)](https://github.com/proninyaroslav/libretorrent/stargazers) | Java / Kotlin | Ad-free, fully open-source torrent client for Android devices |
-| **#11** | **[BTFS](https://github.com/johang/btfs)** | [![GitHub stars](https://img.shields.io/github/stars/johang/btfs?style=social&color=white)](https://github.com/johang/btfs/stargazers) | C++ / FUSE | BitTorrent filesystem; mounts torrents/magnets as local folders |
-| **#12** | **[autobrr](https://github.com/autobrr/autobrr)** | [![GitHub stars](https://img.shields.io/github/stars/autobrr/autobrr?style=social&color=white)](https://github.com/autobrr/autobrr/stargazers) | Go / React | High-speed torrent automation & IRC announce filter pipeline |
-| **#13** | **[Flood](https://github.com/jesec/flood)** | [![GitHub stars](https://img.shields.io/github/stars/jesec/flood?style=social&color=white)](https://github.com/jesec/flood/stargazers) | TypeScript / React | Sleek web interface for rTorrent, qBittorrent, and Transmission |
-| **#14** | **[PicoTorrent](https://github.com/picotorrent/picotorrent)** | [![GitHub stars](https://img.shields.io/github/stars/picotorrent/picotorrent?style=social&color=white)](https://github.com/picotorrent/picotorrent/stargazers) | C++ / Win32 | Tiny, native Win32 desktop client with PQL query filtering |
-| **#15** | **[ruTorrent](https://github.com/Novik/ruTorrent)** | [![GitHub stars](https://img.shields.io/github/stars/Novik/ruTorrent?style=social&color=white)](https://github.com/Novik/ruTorrent/stargazers) | PHP / JavaScript | Classic uTorrent-style web GUI and plugin framework for rTorrent |
-| **#16** | **[BiglyBT](https://github.com/BiglySoftware/BiglyBT)** | [![GitHub stars](https://img.shields.io/github/stars/BiglySoftware/BiglyBT?style=social&color=white)](https://github.com/BiglySoftware/BiglyBT/stargazers) | Java / SWT | Feature-complete ad-free Vuze fork with Swarm Merging & I2P |
-| **#17** | **[Deluge](https://github.com/deluge-torrent/deluge)** | [![GitHub stars](https://img.shields.io/github/stars/deluge-torrent/deluge?style=social&color=white)](https://github.com/deluge-torrent/deluge/stargazers) | Python / GTK | Client-server architecture with daemon (`deluged`) & modular plugins |
-| **#18** | **[Rain](https://github.com/cenkalti/rain)** | [![GitHub stars](https://img.shields.io/github/stars/cenkalti/rain?style=social&color=white)](https://github.com/cenkalti/rain/stargazers) | Go | Concurrency-focused BitTorrent client & library with CLI and WebUI |
+| **#1** | **[aria2](https://github.com/aria2/aria2)** | [![GitHub_Stars](https://img.shields.io/github/stars/aria2/aria2?style=social&color=white)](https://github.com/aria2/aria2/stargazers) | C++ | Multi-protocol CLI engine (BitTorrent, HTTP, FTP, Metalink) |
+| **#2** | **[qBittorrent](https://github.com/qbittorrent/qBittorrent)** | [![GitHub_Stars](https://img.shields.io/github/stars/qbittorrent/qBittorrent?style=social&color=white)](https://github.com/qbittorrent/qBittorrent/stargazers) | C++ (Qt6) | Universal desktop & headless web client; libtorrent-powered |
+| **#3** | **[WebTorrent](https://github.com/webtorrent/webtorrent)** | [![GitHub_Stars](https://img.shields.io/github/stars/webtorrent/webtorrent?style=social&color=white)](https://github.com/webtorrent/webtorrent/stargazers) | JavaScript | In-browser & Node.js streaming torrent engine via WebRTC |
+| **#4** | **[Transmission](https://github.com/transmission/transmission)** | [![GitHub_Stars](https://img.shields.io/github/stars/transmission/transmission?style=social&color=white)](https://github.com/transmission/transmission/stargazers) | C++ / Cocoa | Lightweight native desktop client (<40MB RAM) & headless daemon |
+| **#5** | **[WebTorrent Desktop](https://github.com/webtorrent/webtorrent-desktop)** | [![GitHub_Stars](https://img.shields.io/github/stars/webtorrent/webtorrent-desktop?style=social&color=white)](https://github.com/webtorrent/webtorrent-desktop/stargazers) | JavaScript / Electron | Instant streaming media torrent player for Mac, Windows, and Linux |
+| **#6** | **[VueTorrent](https://github.com/VueTorrent/VueTorrent)** | [![GitHub_Stars](https://img.shields.io/github/stars/VueTorrent/VueTorrent?style=social&color=white)](https://github.com/VueTorrent/VueTorrent/stargazers) | Vue.js / TypeScript | Modern, responsive dark-mode WebUI frontend for qBittorrent |
+| **#7** | **[anacrolix/torrent](https://github.com/anacrolix/torrent)** | [![GitHub_Stars](https://img.shields.io/github/stars/anacrolix/torrent?style=social&color=white)](https://github.com/anacrolix/torrent/stargazers) | Go | Full-featured BitTorrent client package, DHT, and HTTP streamer |
+| **#8** | **[Tribler](https://github.com/Tribler/tribler)** | [![GitHub_Stars](https://img.shields.io/github/stars/Tribler/tribler?style=social&color=white)](https://github.com/Tribler/tribler/stargazers) | Python / PyQt | Anonymity-focused client with integrated multi-hop onion routing |
+| **#9** | **[rTorrent](https://github.com/rakshasa/rtorrent)** | [![GitHub_Stars](https://img.shields.io/github/stars/rakshasa/rtorrent?style=social&color=white)](https://github.com/rakshasa/rtorrent/stargazers) | C++ | High-performance ncurses terminal client built on LibTorrent |
+| **#10** | **[LibreTorrent](https://github.com/proninyaroslav/libretorrent)** | [![GitHub_Stars](https://img.shields.io/github/stars/proninyaroslav/libretorrent?style=social&color=white)](https://github.com/proninyaroslav/libretorrent/stargazers) | Java / Kotlin | Ad-free, fully open-source torrent client for Android devices |
+| **#11** | **[BTFS](https://github.com/johang/btfs)** | [![GitHub_Stars](https://img.shields.io/github/stars/johang/btfs?style=social&color=white)](https://github.com/johang/btfs/stargazers) | C++ / FUSE | BitTorrent filesystem; mounts torrents/magnets as local folders |
+| **#12** | **[autobrr](https://github.com/autobrr/autobrr)** | [![GitHub_Stars](https://img.shields.io/github/stars/autobrr/autobrr?style=social&color=white)](https://github.com/autobrr/autobrr/stargazers) | Go / React | High-speed torrent automation & IRC announce filter pipeline |
+| **#13** | **[Flood](https://github.com/jesec/flood)** | [![GitHub_Stars](https://img.shields.io/github/stars/jesec/flood?style=social&color=white)](https://github.com/jesec/flood/stargazers) | TypeScript / React | Sleek web interface for rTorrent, qBittorrent, and Transmission |
+| **#14** | **[PicoTorrent](https://github.com/picotorrent/picotorrent)** | [![GitHub_Stars](https://img.shields.io/github/stars/picotorrent/picotorrent?style=social&color=white)](https://github.com/picotorrent/picotorrent/stargazers) | C++ / Win32 | Tiny, native Win32 desktop client with PQL query filtering |
+| **#15** | **[ruTorrent](https://github.com/Novik/ruTorrent)** | [![GitHub_Stars](https://img.shields.io/github/stars/Novik/ruTorrent?style=social&color=white)](https://github.com/Novik/ruTorrent/stargazers) | PHP / JavaScript | Classic uTorrent-style web GUI and plugin framework for rTorrent |
+| **#16** | **[BiglyBT](https://github.com/BiglySoftware/BiglyBT)** | [![GitHub_Stars](https://img.shields.io/github/stars/BiglySoftware/BiglyBT?style=social&color=white)](https://github.com/BiglySoftware/BiglyBT/stargazers) | Java / SWT | Feature-complete ad-free Vuze fork with Swarm Merging & I2P |
+| **#17** | **[Deluge](https://github.com/deluge-torrent/deluge)** | [![GitHub_Stars](https://img.shields.io/github/stars/deluge-torrent/deluge?style=social&color=white)](https://github.com/deluge-torrent/deluge/stargazers) | Python / GTK | Client-server architecture with daemon (`deluged`) & modular plugins |
+| **#18** | **[Rain](https://github.com/cenkalti/rain)** | [![GitHub_Stars](https://img.shields.io/github/stars/cenkalti/rain?style=social&color=white)](https://github.com/cenkalti/rain/stargazers) | Go | Concurrency-focused BitTorrent client & library with CLI and WebUI |
 
 ---
 
 ### 🔍 In-Depth Open-Source Breakdown
 
-#### 1. [aria2](https://github.com/aria2/aria2) [![GitHub stars](https://img.shields.io/github/stars/aria2/aria2?style=social&color=white)](https://github.com/aria2/aria2/stargazers)
+#### 1. [aria2](https://github.com/aria2/aria2) [![GitHub_Stars](https://img.shields.io/github/stars/aria2/aria2?style=social&color=white)](https://github.com/aria2/aria2/stargazers)
 - **License**: GPL-2.0
 - **Tech Stack**: C++, libuv, GnuTLS/OpenSSL
 - **Core Strengths**: Ultra-fast multi-protocol download engine capable of utilizing maximum socket bandwidth across BitTorrent, HTTP, HTTPS, FTP, and Metalink. Controllable via XML-RPC and JSON-RPC APIs.
 - **Ideal Use Case**: Command-line power users, automated NAS container downloads, shell scripting, and integration with browser download extensions.
 
-#### 2. [qBittorrent](https://github.com/qbittorrent/qBittorrent) [![GitHub stars](https://img.shields.io/github/stars/qbittorrent/qBittorrent?style=social&color=white)](https://github.com/qbittorrent/qBittorrent/stargazers)
+#### 2. [qBittorrent](https://github.com/qbittorrent/qBittorrent) [![GitHub_Stars](https://img.shields.io/github/stars/qbittorrent/qBittorrent?style=social&color=white)](https://github.com/qbittorrent/qBittorrent/stargazers)
 - **License**: GPL-2.0
 - **Tech Stack**: C++, Qt6, libtorrent-rasterbar (v1.2 & v2.0 branches)
 - **Core Strengths**: The gold-standard open-source BitTorrent client. Clones the classic lightweight uTorrent 2.x interface without ads or bloatware. Features built-in search engine plugins, sequential downloading, IP filtering, advanced RSS auto-downloader rules, and an integrated WebUI.
 - **Ideal Use Case**: Universal daily desktop client on Windows, macOS, and Linux, as well as headless home server / NAS deployments via `qbittorrent-nox`.
 
-#### 3. [WebTorrent](https://github.com/webtorrent/webtorrent) [![GitHub stars](https://img.shields.io/github/stars/webtorrent/webtorrent?style=social&color=white)](https://github.com/webtorrent/webtorrent/stargazers)
+#### 3. [WebTorrent](https://github.com/webtorrent/webtorrent) [![GitHub_Stars](https://img.shields.io/github/stars/webtorrent/webtorrent?style=social&color=white)](https://github.com/webtorrent/webtorrent/stargazers)
 - **License**: MIT
 - **Tech Stack**: JavaScript, Node.js, WebRTC, WebCrypto
 - **Core Strengths**: First torrent client built directly for the web. Enables browser-to-browser peer file sharing using WebRTC data channels without requiring browser plugins or native installations. Can bridge WebTorrent swarms with regular BitTorrent swarms via hybrid peers.
 - **Ideal Use Case**: Web developers building decentralized streaming media apps, distributed web hosting, and browser-native P2P protocols.
 
-#### 4. [Transmission](https://github.com/transmission/transmission) [![GitHub stars](https://img.shields.io/github/stars/transmission/transmission?style=social&color=white)](https://github.com/transmission/transmission/stargazers)
+#### 4. [Transmission](https://github.com/transmission/transmission) [![GitHub_Stars](https://img.shields.io/github/stars/transmission/transmission?style=social&color=white)](https://github.com/transmission/transmission/stargazers)
 - **License**: GPL-2.0 / GPL-3.0
 - **Tech Stack**: C++, Objective-C/Cocoa, GTK, Qt, JSON-RPC 2.0
 - **Core Strengths**: Minimalist native desktop client idling at under 40 MB of RAM. Default torrent client in GNOME and Ubuntu. Provides native macOS Aqua UI, clean Linux GTK/Qt interfaces, and a robust background daemon (`transmission-daemon`) with JSON-RPC remote control.
 - **Ideal Use Case**: macOS users seeking a Cocoa-native interface, resource-constrained single-board computers (Raspberry Pi), and Linux desktop systems.
 
-#### 5. [WebTorrent Desktop](https://github.com/webtorrent/webtorrent-desktop) [![GitHub stars](https://img.shields.io/github/stars/webtorrent/webtorrent-desktop?style=social&color=white)](https://github.com/webtorrent/webtorrent-desktop/stargazers)
+#### 5. [WebTorrent Desktop](https://github.com/webtorrent/webtorrent-desktop) [![GitHub_Stars](https://img.shields.io/github/stars/webtorrent/webtorrent-desktop?style=social&color=white)](https://github.com/webtorrent/webtorrent-desktop/stargazers)
 - **License**: MIT
 - **Tech Stack**: JavaScript, Electron, WebTorrent, Node.js
 - **Core Strengths**: Instantaneous streaming media torrent client. Starts video playback immediately while downloading in the background. Natively streams to AirPlay, Chromecast, and DLNA devices. Connects seamlessly to both WebTorrent and traditional BitTorrent peers.
 - **Ideal Use Case**: Casual users who want to stream audio or video torrents on-demand without waiting for downloads to reach 100%.
 
-#### 6. [VueTorrent](https://github.com/VueTorrent/VueTorrent) [![GitHub stars](https://img.shields.io/github/stars/VueTorrent/VueTorrent?style=social&color=white)](https://github.com/VueTorrent/VueTorrent/stargazers)
+#### 6. [VueTorrent](https://github.com/VueTorrent/VueTorrent) [![GitHub_Stars](https://img.shields.io/github/stars/VueTorrent/VueTorrent?style=social&color=white)](https://github.com/VueTorrent/VueTorrent/stargazers)
 - **License**: GPL-3.0
 - **Tech Stack**: Vue.js 3, TypeScript, Vite, TailwindCSS
 - **Core Strengths**: A modern web dashboard replacement for the default qBittorrent WebUI. Offers desktop and mobile responsive layouts, detailed real-time transfer graphs, dark/custom themes, torrent tag management, and tracker monitoring.
 - **Ideal Use Case**: Upgrading self-hosted qBittorrent installations to an aesthetic, mobile-friendly interface for phones and tablets.
 
-#### 7. [anacrolix/torrent](https://github.com/anacrolix/torrent) [![GitHub stars](https://img.shields.io/github/stars/anacrolix/torrent?style=social&color=white)](https://github.com/anacrolix/torrent/stargazers)
+#### 7. [anacrolix/torrent](https://github.com/anacrolix/torrent) [![GitHub_Stars](https://img.shields.io/github/stars/anacrolix/torrent?style=social&color=white)](https://github.com/anacrolix/torrent/stargazers)
 - **License**: MPL-2.0
 - **Tech Stack**: Go (Golang)
 - **Core Strengths**: Production-ready BitTorrent client library written in pure Go. Includes mainline DHT, uTP, BEP 3/9/10/20 extensions, piece encryption, and an integrated HTTP server for streaming torrent files over standard HTTP connections.
 - **Ideal Use Case**: Go backend engineers building distributed data distribution pipelines, decentralized storage tools, and microservices.
 
-#### 8. [Tribler](https://github.com/Tribler/tribler) [![GitHub stars](https://img.shields.io/github/stars/Tribler/tribler?style=social&color=white)](https://github.com/Tribler/tribler/stargazers)
+#### 8. [Tribler](https://github.com/Tribler/tribler) [![GitHub_Stars](https://img.shields.io/github/stars/Tribler/tribler?style=social&color=white)](https://github.com/Tribler/tribler/stargazers)
 - **License**: LGPL-3.0
 - **Tech Stack**: Python, PyQt, Libtorrent
 - **Core Strengths**: Privacy-first, censorship-resistant P2P platform developed by researchers at Delft University of Technology. Features an embedded multi-hop onion routing network (similar to Tor) that masks IP addresses from swarm peers, accompanied by decentralized metadata search.
 - **Ideal Use Case**: Users prioritizing maximum anonymity and censorship circumvention without running a separate commercial VPN tunnel.
 
-#### 9. [rTorrent](https://github.com/rakshasa/rtorrent) [![GitHub stars](https://img.shields.io/github/stars/rakshasa/rtorrent?style=social&color=white)](https://github.com/rakshasa/rtorrent/stargazers)
+#### 9. [rTorrent](https://github.com/rakshasa/rtorrent) [![GitHub_Stars](https://img.shields.io/github/stars/rakshasa/rtorrent?style=social&color=white)](https://github.com/rakshasa/rtorrent/stargazers)
 - **License**: GPL-2.0
 - **Tech Stack**: C++, LibTorrent (rakshasa), ncurses, XMLRPC
 - **Core Strengths**: Legendary command-line ncurses client renowned for maximum I/O throughput, low resource overhead, and rock-solid stability under heavy load. Capable of managing tens of thousands of active torrents simultaneously on dedicated seedboxes.
 - **Ideal Use Case**: Dedicated Linux seedboxes, shell environments, and power users combining rTorrent with ruTorrent or Flood web interfaces.
 
-#### 10. [LibreTorrent](https://github.com/proninyaroslav/libretorrent) [![GitHub stars](https://img.shields.io/github/stars/proninyaroslav/libretorrent?style=social&color=white)](https://github.com/proninyaroslav/libretorrent/stargazers)
+#### 10. [LibreTorrent](https://github.com/proninyaroslav/libretorrent) [![GitHub_Stars](https://img.shields.io/github/stars/proninyaroslav/libretorrent?style=social&color=white)](https://github.com/proninyaroslav/libretorrent/stargazers)
 - **License**: GPL-3.0
 - **Tech Stack**: Java, Kotlin, libtorrent4j
 - **Core Strengths**: Truly free and open-source Android torrent client based on libtorrent. Features Material Design 3, selective file downloading, IP filtering (eMule .dat and PeerGuardian), proxy support, battery-saver auto-shutdown, and scheduling.
 - **Ideal Use Case**: Android mobile and Android TV users seeking a tracker-free, ad-free alternative to uTorrent Android.
 
-#### 11. [BTFS](https://github.com/johang/btfs) [![GitHub stars](https://img.shields.io/github/stars/johang/btfs?style=social&color=white)](https://github.com/johang/btfs/stargazers)
+#### 11. [BTFS](https://github.com/johang/btfs) [![GitHub_Stars](https://img.shields.io/github/stars/johang/btfs?style=social&color=white)](https://github.com/johang/btfs/stargazers)
 - **License**: GPL-3.0
 - **Tech Stack**: C++, FUSE, libtorrent-rasterbar
 - **Core Strengths**: BitTorrent Filesystem implemented via FUSE (Filesystem in Userspace). Allows users to mount any `.torrent` file or magnet link as a virtual read-only directory on Linux and macOS, streaming file content on-demand via standard POSIX system calls.
 - **Ideal Use Case**: Instant media playback via standard media players (e.g., `vlc /mnt/torrent/movie.mkv`) without pre-downloading entire archives.
 
-#### 12. [autobrr](https://github.com/autobrr/autobrr) [![GitHub stars](https://img.shields.io/github/stars/autobrr/autobrr?style=social&color=white)](https://github.com/autobrr/autobrr/stargazers)
+#### 12. [autobrr](https://github.com/autobrr/autobrr) [![GitHub_Stars](https://img.shields.io/github/stars/autobrr/autobrr?style=social&color=white)](https://github.com/autobrr/autobrr/stargazers)
 - **License**: GPL-2.0
 - **Tech Stack**: Go, React, SQLite/PostgreSQL
 - **Core Strengths**: High-performance torrent automation tool that listens to IRC announce channels and RSS feeds for instant release grabs. Features fine-grained filtering rules, regex matching, and push webhooks to send torrents to qBittorrent, Deluge, rTorrent, or Transmission within milliseconds.
 - **Ideal Use Case**: Race seeding on private trackers, automated release grabbing, and media server pipeline automation.
 
-#### 13. [Flood](https://github.com/jesec/flood) [![GitHub stars](https://img.shields.io/github/stars/jesec/flood?style=social&color=white)](https://github.com/jesec/flood/stargazers)
+#### 13. [Flood](https://github.com/jesec/flood) [![GitHub_Stars](https://img.shields.io/github/stars/jesec/flood?style=social&color=white)](https://github.com/jesec/flood/stargazers)
 - **License**: GPL-3.0
 - **Tech Stack**: TypeScript, Node.js, React
 - **Core Strengths**: Modern web interface that communicates with rTorrent, qBittorrent, and Transmission via their native RPC interfaces. Provides multi-user authentication, real-time speed feeds, clean priority assignment, and mobile optimization.
 - **Ideal Use Case**: Unifying disparate headless torrent backends behind a polished, modern single-page web dashboard.
 
-#### 14. [PicoTorrent](https://github.com/picotorrent/picotorrent) [![GitHub stars](https://img.shields.io/github/stars/picotorrent/picotorrent?style=social&color=white)](https://github.com/picotorrent/picotorrent/stargazers)
+#### 14. [PicoTorrent](https://github.com/picotorrent/picotorrent) [![GitHub_Stars](https://img.shields.io/github/stars/picotorrent/picotorrent?style=social&color=white)](https://github.com/picotorrent/picotorrent/stargazers)
 - **License**: MIT
 - **Tech Stack**: C++, Win32 API, libtorrent
 - **Core Strengths**: Built specifically for Windows users who want an ad-free client that uses native Win32 controls without heavy Electron, Qt, or Java runtimes. Features PQL (PicoTorrent Query Language) for filtering large torrent collections and built-in IP blocklists.
 - **Ideal Use Case**: Low-spec Windows laptops, older PCs, and users who demand a clean, native Windows look and feel.
 
-#### 15. [ruTorrent](https://github.com/Novik/ruTorrent) [![GitHub stars](https://img.shields.io/github/stars/Novik/ruTorrent?style=social&color=white)](https://github.com/Novik/ruTorrent/stargazers)
+#### 15. [ruTorrent](https://github.com/Novik/ruTorrent) [![GitHub_Stars](https://img.shields.io/github/stars/Novik/ruTorrent?style=social&color=white)](https://github.com/Novik/ruTorrent/stargazers)
 - **License**: GPL-3.0
 - **Tech Stack**: PHP, JavaScript, XML-RPC
 - **Core Strengths**: The classic web frontend for rTorrent that replicates the dense, functional uTorrent layout in the browser. Features an extensive third-party plugin ecosystem supporting unpack/unrar, RSS feeds, scheduler, disk space monitoring, and ratio rules.
 - **Ideal Use Case**: Traditional dedicated seedboxes running rTorrent on Debian/Ubuntu with granular administrative plugins.
 
-#### 16. [BiglyBT](https://github.com/BiglySoftware/BiglyBT) [![GitHub stars](https://img.shields.io/github/stars/BiglySoftware/BiglyBT?style=social&color=white)](https://github.com/BiglySoftware/BiglyBT/stargazers)
+#### 16. [BiglyBT](https://github.com/BiglySoftware/BiglyBT) [![GitHub_Stars](https://img.shields.io/github/stars/BiglySoftware/BiglyBT?style=social&color=white)](https://github.com/BiglySoftware/BiglyBT/stargazers)
 - **License**: GPL-2.0
 - **Tech Stack**: Java, SWT
 - **Core Strengths**: Complete open-source fork of Azureus/Vuze, maintained by original core developers. Removes all adware, toolbars, and bundled promotions. Features Swarm Merging (combining seeds from multiple torrents sharing the same files), WebTorrent support, and I2P anonymity routing.
 - **Ideal Use Case**: Power users migrating from legacy Vuze who require deep torrent diagnostics, RSS subscription automation, and swarm repair tools.
 
-#### 17. [Deluge](https://github.com/deluge-torrent/deluge) [![GitHub stars](https://img.shields.io/github/stars/deluge-torrent/deluge?style=social&color=white)](https://github.com/deluge-torrent/deluge/stargazers)
+#### 17. [Deluge](https://github.com/deluge-torrent/deluge) [![GitHub_Stars](https://img.shields.io/github/stars/deluge-torrent/deluge?style=social&color=white)](https://github.com/deluge-torrent/deluge/stargazers)
 - **License**: GPL-3.0
 - **Tech Stack**: Python, GTK, libtorrent-rasterbar
 - **Core Strengths**: Clean separation of concerns with a headless background daemon (`deluged`) connectable via desktop GTK UI, web browser interface, or CLI. Extensive Python plugin ecosystem covering auto-extraction, label management, blocklists, and notifications.
 - **Ideal Use Case**: Thin-client remote server setups where torrents are seeded on a NAS/server and managed seamlessly from a desktop GUI.
 
-#### 18. [Rain](https://github.com/cenkalti/rain) [![GitHub stars](https://img.shields.io/github/stars/cenkalti/rain?style=social&color=white)](https://github.com/cenkalti/rain/stargazers)
+#### 18. [Rain](https://github.com/cenkalti/rain) [![GitHub_Stars](https://img.shields.io/github/stars/cenkalti/rain?style=social&color=white)](https://github.com/cenkalti/rain/stargazers)
 - **License**: MIT
 - **Tech Stack**: Go (Golang)
 - **Core Strengths**: Modern BitTorrent client and library written from scratch in Go. Designed with clean modular code, concurrent piece downloads, DHT support, and an included CLI and browser-based WebUI.
@@ -238,7 +238,7 @@ Contributions to expand and update this curated directory are warmly welcomed!
 
 1. 🍴 **Fork the repository** on GitHub.
 2. 🌿 **Create a new branch**: `git checkout -b add/new-torrent-client`.
-3. 📝 **Edit `README.md`**: Follow the existing tabular structure, ensuring specific pricing, verified free tier limits, star badges linking to stargazers, and factual descriptions.
+3. 📝 **Edit `README.md`**: Follow the existing tabular structure, ensuring specific pricing, verified free tier limits, Stars_Badges linking to stargazers, and factual descriptions.
 4. 🧪 **Verify links and badges**: Ensure all markdown links and shields.io badge endpoints resolve without errors.
 5. 🚀 **Submit a Pull Request**: Include a short explanation of the added or updated project.
 
@@ -265,3 +265,12 @@ If you find this curated directory of **P2P & BitTorrent Clients** useful:
 
 - **License**: Released under the [MIT License](LICENSE).
 - **Disclaimer**: This directory is curated for educational, research, and technical indexing purposes. BitTorrent and P2P protocols are decentralized data distribution technologies used legitimately by Linux distributions, open-source communities, game publishers, and archive initiatives worldwide. Users are strictly responsible for complying with copyright laws and local regulations in their respective jurisdictions.
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-P2P-Bittorrent-Clients&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-P2P-Bittorrent-Clients_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-P2P-Bittorrent-Clients_growth.svg">
+  </picture>
+</a>
